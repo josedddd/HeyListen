@@ -4,7 +4,8 @@
 <body >
 <style>
 body {
-color: red;}
+color: #F93939;
+}
 <style/>
 <div aling="center" >
   <div>Hola<div/>
