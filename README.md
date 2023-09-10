@@ -3,7 +3,7 @@
 
 <body>
 
-<div aling="center" background-color="#CF0E0E ">
+<div aling="center" bgcolor="#CF0E0E">
   <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Logov1.png" width="600" />
 </div>
 
