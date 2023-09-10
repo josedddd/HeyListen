@@ -1,6 +1,10 @@
+  <style>
+            body {
+                color: red;
+                
+            }
 
-
-
+      
 <body style="background-color:">
 
 <div aling="center" >
