@@ -22,10 +22,10 @@ HeyListen es un proyecto el cual busca  ayudar a las personas con discapacidad v
 
 <h1>Avance</h1>
 
-* ### Bocetos
-   <img src="" height="200" >         
 * ### Caja Negra
-   <img src="" height="200" > 
+   <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/CajaNegra/CajaNegra.drawio.png" height="150" >         
+* ### Bocetos
+   <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Bocetos/WhatsApp%20Image%202023-09-03%20at%206.33.06%20PM.jpeg" height="500" > 
 * ### (pendiente)
   
 
