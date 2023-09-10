@@ -1,12 +1,11 @@
-  <style>
-    body {
-       color: red;
-  }
-    <style/>
+
 
       
 <body >
-
+<style>
+body {
+color: red;}
+<style/>
 <div aling="center" >
   <div>Hola<div/>
  <div>
