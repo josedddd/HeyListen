@@ -27,7 +27,7 @@ HeyListen es un proyecto el cual busca  ayudar a las personas con discapacidad v
 * ### Bocetos
    <img src="https://github.com/WillDev230/PulsaParaVer/blob/main/Bocetos/WhatsApp%20Image%202023-09-03%20at%206.33.06%20PM.jpeg" height="500" > 
    <img src="https://github.com/WillDev230/HeyListen/blob/main/Bocetos/imagen_2023-09-10_204500759.png" height="500" > 
-* ### Funcionamiento
+### Funcionamiento
 consta de una serie de pulsadores con inscripciones en braile para su identificacion, que al ser accionados emitiran una señal, que al ser captada por otro receptor emitira un sonido durante un lapso de tiempo de 6 segundos, para que el usuario pueda ubicar su el elemento desedado
   
 
