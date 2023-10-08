@@ -34,5 +34,30 @@ Lo lograremos brindandoles comodidades para encontrar objetos o lugares  especif
    <img src="https://github.com/WillDev230/HeyListen/blob/main/CajaNegra/BocetoaBorrar.png" height="500" > 
 <h1>Funcionamiento</h1>
 consta de una serie de pulsadores con inscripciones en braile para su identificacion, que al ser accionados emitiran una señal, que al ser captada por otro receptor emitira un sonido durante un lapso de tiempo de 6 segundos, para que el usuario pueda ubicar su el elemento desedado
-  
+<h1>Posibles aplicaciones especificas</h1>
+Unos ejemplos de las aplicaciones que estamos pensando son: 
+
+### 1. Lazarillo
+
+
+Esto se debe a que muchas veces a las personas con baja vision se les olvida donde dejaron el lazarillo, especialmente en el carro, o en los lugares de afuera. Entonces esto seria util para que lo puedan encontrar 
+
+### 2. Celular 
+
+Aunque parezca incoherente, un rastreador que busque el celular, no es tan mala idea, porque muchas veces a las personas con discapacidad se les olvida donde dejaron este aparato. Asimismo no se nescecitaria otro microcontraldor,pues el esp 32 se podria conectar directamente
+
+### 3 Controlres de televisores
+
+Estos aparatos muchas veces se refunden o se caen, entonces para una persona con baja vision es dificil encontrarlos cuando pasa esto. Por esto podria ser una buena idea 
+
+Ahora bien tambien se pueden hacer aplicaciones por lugares, es decir por secciones 
+
+### 1. Para la oficina 
+
+En una oficina normalmente, existen distintos compartimientos especificos para ciertas funciones. Por ejemplo se podria aplicar el rastrador a un organizador que tenga distintos compartimientos 
+
+### 2. Para la ropa
+
+Aunque no es una idea muy positiva pues una persona de baja vision siempre sabe donde esta la ropa  se podria usar para ubicar en que cajones esta la ropa, e inclusive el tipo de ropa. 
+
 
